@@ -1,0 +1,9 @@
+add people
+git commands
+git add 
+git restore <file name>
+git restore --stoged <file name>
+git commit -m 'by vamsi'
+git push origin main
+git branch 
+git chekout
