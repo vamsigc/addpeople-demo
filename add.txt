@@ -7,3 +7,4 @@ git commit -m 'by vamsi'
 git push origin main
 git branch 
 git chekout
+git add a branch 
